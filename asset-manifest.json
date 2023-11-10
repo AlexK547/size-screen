@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/size-screen/static/css/main.e69ba57e.css",
+    "main.js": "/size-screen/static/js/main.ee7de01e.js",
+    "index.html": "/size-screen/index.html",
+    "main.e69ba57e.css.map": "/size-screen/static/css/main.e69ba57e.css.map",
+    "main.ee7de01e.js.map": "/size-screen/static/js/main.ee7de01e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e69ba57e.css",
+    "static/js/main.ee7de01e.js"
+  ]
+}
